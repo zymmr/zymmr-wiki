@@ -1,5 +1,5 @@
 
-<img src="https://github.com/sushant-awalekar/zymmr-docs/blob/main/static/projects/zymmr-hero.png" alt="zymmr-hero"/>
+<img src="https://github.com/sushant-awalekar/zymmr-docs/blob/main/static/projects/zymmr-hero.png" alt="zymmrhero"/>
 
 # Welcome to Zymmr
 
