@@ -1,6 +1,5 @@
 
-
-![Zymmr-Hero](https://github.com/sushant-awalekar/zymmr-docs/blob/main/static/projects/zymmr-hero.png)
+<img src="https://github.com/sushant-awalekar/zymmr-docs/blob/main/static/projects/zymmr-hero.png" alt="zymmr-hero"/>
 
 # Welcome to Zymmr
 
